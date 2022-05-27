@@ -1,1 +1,5 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vietanhvo&layout=compact)](https://github.com/vietanhvo?tab=repositories)
+## Welcome! I'm Viet 🫡
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vietanhvo&hide=objective-c,html,starlark&langs_count=6&theme=gruvbox&layout=compact)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vietanhvo&count_private=true&show_icons=true&theme=gruvbox)
